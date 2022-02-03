@@ -1,0 +1,1 @@
+Here is the result of combining first and second: First text file, Second text file
